@@ -12,8 +12,8 @@ Mi hoja de ruta para aprender programación con foco en **criterio**: fundamento
 
 ## Fase 0 · Base sólida en Python (2-3 meses)
 
-- [ ] Instalar Python y VS Code
-- [ ] Crear cuenta en GitHub y aprender lo básico de Git (`add`, `commit`, `push`, `pull`)
+- [x] Instalar Python y VS Code
+- [x] Crear cuenta en GitHub y aprender lo básico de Git (`add`, `commit`, `push`, `pull`)
 - [ ] Variables y tipos de datos
 - [ ] Estructuras de control (`if`, `for`, `while`)
 - [ ] Funciones
