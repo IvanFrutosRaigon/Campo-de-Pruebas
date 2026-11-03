@@ -1,16 +1,10 @@
 # Aprendizaje de programación
 
-Mi hoja de ruta para aprender programación con foco en **criterio**: fundamentos, diseño de software y arquitectura de sistemas. Áreas: web, backend y datos.
-
-- 📓 Diario de sesiones: [diario.md](diario.md)
-- 📚 Apuntes: [apuntes/](apuntes/)
-- 🧪 Ejercicios: [ejercicios/](ejercicios/)
-
-> Ritmo orientativo: 8-10 horas semanales. Los tiempos son una guía, no un examen.
+Hoja de ruta para aprender/repasar programación con foco en **criterio**: fundamentos, diseño de software y arquitectura de sistemas. Áreas: web, backend y datos.
 
 ---
 
-## Fase 0 · Base sólida en Python (2-3 meses)
+## Fase 0 · Base Python
 
 - [x] Instalar Python y VS Code
 - [x] Crear cuenta en GitHub y aprender lo básico de Git (`add`, `commit`, `push`, `pull`)
@@ -24,7 +18,7 @@ Mi hoja de ruta para aprender programación con foco en **criterio**: fundamento
 - [ ] Módulos y paquetes, entornos virtuales (`venv`) y `pip`
 - [ ] **Proyecto:** programa de consola útil (gestor de gastos o de tareas) que guarde los datos en un archivo
 
-## Fase 1 · Cómo funcionan las cosas (1-2 meses, en paralelo)
+## Fase 1 · Cómo funcionan las cosas
 
 - [ ] Uso básico de la terminal
 - [ ] Cómo funciona la web: cliente-servidor, HTTP, DNS
