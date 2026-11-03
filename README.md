@@ -14,8 +14,8 @@ Mi hoja de ruta para aprender programación con foco en **criterio**: fundamento
 
 - [x] Instalar Python y VS Code
 - [x] Crear cuenta en GitHub y aprender lo básico de Git (`add`, `commit`, `push`, `pull`)
-- [ ] Variables y tipos de datos
-- [ ] Estructuras de control (`if`, `for`, `while`)
+- [x] Variables y tipos de datos
+- [x] Estructuras de control (`if`, `for`, `while`)
 - [ ] Funciones
 - [ ] Listas, tuplas, diccionarios y conjuntos
 - [ ] Leer y escribir archivos
