@@ -1,5 +1,5 @@
 def run(numbers: list) -> int:
-    # TODO
+    rmult = 0
     return rmult
 
 
