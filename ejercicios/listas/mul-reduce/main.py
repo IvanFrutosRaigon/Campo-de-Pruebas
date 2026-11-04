@@ -1,5 +1,7 @@
 def run(numbers: list) -> int:
-    rmult = 0
+    rmult = 1
+    for valor in numbers:
+        rmult*=valor
     return rmult
 
 
