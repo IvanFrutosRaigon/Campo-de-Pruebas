@@ -11,7 +11,7 @@ Hoja de ruta para aprender/repasar programación con foco en **criterio**: funda
 - [x] Variables y tipos de datos
 - [x] Estructuras de control (`if`, `for`, `while`)
 - [ ] Funciones
-- [ ] Listas, tuplas, diccionarios y conjuntos
+- [x] Listas, tuplas, diccionarios y conjuntos
 - [ ] Leer y escribir archivos
 - [ ] Manejo de errores (`try` / `except`)
 - [ ] Clases y objetos
